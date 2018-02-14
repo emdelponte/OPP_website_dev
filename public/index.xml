@@ -152,19 +152,19 @@ Sarah Pethybridge  - &lt;em&gt;Cornell University, USA&lt;/em&gt;&lt;/p&gt;
 
 &lt;ol&gt;&lt;li&gt;Creating social infrastructure through a welcoming, engaged and diverse community in a &lt;a href = &#34;https://openplantpathology.slack.com&#34; alt = &#34;Open Plant Pathology Slack Workgroup&#34; title = &#34;Open Plant Pathology Slack Workgroup&#34;&gt;Slack chatting workspace&lt;/a&gt;  and on &lt;a href = &#34;https://twitter.com/OpenPlantPath/&#34;&gt; Twitter&lt;/a&gt;. &lt;/li&gt;
 
-&lt;img src =&#34;/img/vision1.png&#34;&gt;
+&lt;img src =&#34;/img/mission1.png&#34;&gt;
 
 
 &lt;h3&gt;How to join and what to do?&lt;/h3&gt;
 
 &lt;p&gt;&lt;font size = 2&gt;(click on the image to send email)&lt;/font&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href = &#34;mailto:openplantpathology@gmail.com&#34; subject= &#34;Interested to join your Slack Workgroup&#34;&gt;&lt;img src =&#34;/img/vision2.png&#34;&gt;
+&lt;p&gt;&lt;a href = &#34;mailto:openplantpathology@gmail.com&#34; subject= &#34;Interested to join your Slack Workgroup&#34;&gt;&lt;img src =&#34;/img/join.png&#34;&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;li&gt;Creating technical infrastructure by selecting well-recognised leaders from computational plant pathology to help direct and engage the community, and create community-contributed web-based (website and GitHub) open source software tools that provide scientific data sources and instructional materials for self-instruction or classroom settings.&lt;/li&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src =&#34;/img/vision3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src =&#34;/img/mission2.png&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;li&gt;&lt;p&gt;Building &lt;strong&gt;capacity&lt;/strong&gt; of computational plant pathologists and fostering a sense of pride in their work.&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;
 
@@ -209,8 +209,9 @@ Sarah Pethybridge  - &lt;em&gt;Cornell University, USA&lt;/em&gt;&lt;/p&gt;
 &lt;h3&gt;
 Adam H Sparks and John P Thompson
 &lt;/h3&gt;
-&lt;p&gt;University of Southern Queensland, Centre for Crop Health, Toowoomba, Qld, AU
-&lt;a href=&#34;https://zenodo.org/badge/latestdoi/119438897&#34;&gt;&lt;img src = &#34;https://zenodo.org/badge/119438897.svg&#34; class = doi&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;University of Southern Queensland, Centre for Crop Health, Toowoomba, Qld, AU&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zenodo.org/badge/latestdoi/119438897&#34;&gt;&lt;img src = &#34;https://zenodo.org/badge/119438897.svg&#34; class = doi&gt;&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
 &lt;div id=&#34;introduction&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Pratylenchus thornei&lt;/em&gt;, the root-lesion nematode, is widely distributed in wheat (&lt;em&gt;Triticum aestivum&lt;/em&gt;) growing areas of many countries and is of particular concern in sub-tropical environments &lt;span class=&#34;citation&#34;&gt;(Thompson 2015)&lt;/span&gt;. These nematodes penetrate roots to feed and reproduce in the root cortex leading to loss of root function, which affects nutrient and water uptake of nutrients and water causing nutrient deficiency and water stress &lt;span class=&#34;citation&#34;&gt;(Thompson 2015)&lt;/span&gt;.&lt;/p&gt;
@@ -223,8 +224,7 @@ Adam H Sparks and John P Thompson
 &lt;/div&gt;
 &lt;div id=&#34;packages&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Packages&lt;/h1&gt;
-&lt;p&gt;Using the &lt;strong&gt;&lt;code&gt;tidyverse&lt;/code&gt;&lt;/strong&gt;, &lt;span class=&#34;citation&#34;&gt;(2017)&lt;/span&gt; package simplifies the libraries used in this work. It is a collection of packages designed to work together for data science, &lt;a href=&#34;https://www.tidyverse.org/&#34; class=&#34;uri&#34;&gt;https://www.tidyverse.org/&lt;/a&gt;. The &lt;strong&gt;&lt;code&gt;tidyverse&lt;/code&gt;&lt;/strong&gt; includes, &lt;strong&gt;&lt;code&gt;readr&lt;/code&gt;&lt;/strong&gt; &lt;span class=&#34;citation&#34;&gt;(2017)&lt;/span&gt;, used to import the data; &lt;strong&gt;&lt;code&gt;tidyr&lt;/code&gt;&lt;/strong&gt; &lt;span class=&#34;citation&#34;&gt;(2018)&lt;/span&gt;, used to format the data; &lt;strong&gt;&lt;code&gt;dplyr&lt;/code&gt;&lt;/strong&gt; &lt;span class=&#34;citation&#34;&gt;(2017)&lt;/span&gt;, used to subset the data; and &lt;strong&gt;&lt;code&gt;ggplot2&lt;/code&gt;&lt;/strong&gt; &lt;span class=&#34;citation&#34;&gt;(2016)&lt;/span&gt;, used for visualising the data and model fits. &lt;strong&gt;&lt;code&gt;viridis&lt;/code&gt;&lt;/strong&gt; &lt;span class=&#34;citation&#34;&gt;(2018)&lt;/span&gt; is a selection of colour pallets that are widely accessible for people with colour-blindness and printing
-in black and white.&lt;/p&gt;
+&lt;p&gt;Using the &lt;strong&gt;&lt;code&gt;tidyverse&lt;/code&gt;&lt;/strong&gt;, &lt;span class=&#34;citation&#34;&gt;(2017)&lt;/span&gt; package simplifies the libraries used in this work. It is a collection of packages designed to work together for data science, &lt;a href=&#34;https://www.tidyverse.org/&#34; class=&#34;uri&#34;&gt;https://www.tidyverse.org/&lt;/a&gt;. The &lt;strong&gt;&lt;code&gt;tidyverse&lt;/code&gt;&lt;/strong&gt; includes, &lt;strong&gt;&lt;code&gt;readr&lt;/code&gt;&lt;/strong&gt; &lt;span class=&#34;citation&#34;&gt;(2017)&lt;/span&gt;, used to import the data; &lt;strong&gt;&lt;code&gt;tidyr&lt;/code&gt;&lt;/strong&gt; &lt;span class=&#34;citation&#34;&gt;(2018)&lt;/span&gt;, used to format the data; &lt;strong&gt;&lt;code&gt;dplyr&lt;/code&gt;&lt;/strong&gt; &lt;span class=&#34;citation&#34;&gt;(2017)&lt;/span&gt;, used to subset the data; and &lt;strong&gt;&lt;code&gt;ggplot2&lt;/code&gt;&lt;/strong&gt; &lt;span class=&#34;citation&#34;&gt;(2016)&lt;/span&gt;, used for visualising the data and model fits. &lt;strong&gt;&lt;code&gt;viridis&lt;/code&gt;&lt;/strong&gt; &lt;span class=&#34;citation&#34;&gt;(2018)&lt;/span&gt; is a selection of colour pallets that are widely accessible for people with colour-blindness and printing in black and white.&lt;/p&gt;
 &lt;p&gt;The following code chunk checks first to see if you have &lt;strong&gt;&lt;code&gt;tidyverse&lt;/code&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;code&gt;viridis&lt;/code&gt;&lt;/strong&gt; installed, if not, it will automatically install them and then load them.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;if (!require(tidyverse)) {
   install.packages(
@@ -244,8 +244,7 @@ if (!require(viridis)) {
 &lt;/div&gt;
 &lt;div id=&#34;data-wrangling&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Data Wrangling&lt;/h1&gt;
-&lt;p&gt;The data are located in the &lt;code&gt;data&lt;/code&gt; sub-folder. Import the data using
-&lt;code&gt;read_csv()&lt;/code&gt; function from &lt;strong&gt;&lt;code&gt;readr&lt;/code&gt;&lt;/strong&gt; and view them.&lt;/p&gt;
+&lt;p&gt;The data are located in the &lt;code&gt;data&lt;/code&gt; sub-folder. Import the data using &lt;code&gt;read_csv()&lt;/code&gt; function from &lt;strong&gt;&lt;code&gt;readr&lt;/code&gt;&lt;/strong&gt; and view them.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;nema &amp;lt;- read_csv(&amp;quot;data/Nematode_Data.csv&amp;quot;)
 
 nema&lt;/code&gt;&lt;/pre&gt;
@@ -300,8 +299,7 @@ Temperature (&lt;u&gt;C) treatment &lt;/u&gt;
 Degree_Days
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-Average thermal time degree days above 10 &lt;u&gt;C for four soil depths
-(8, 15, 30 and 60 cm) &lt;/u&gt;
+Average thermal time degree days above 10 &lt;u&gt;C for four soil depths (8, 15, 30 and 60 cm) &lt;/u&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -348,7 +346,7 @@ Log&lt;sup&gt;*&lt;/sup&gt;, &lt;code&gt;log()&lt;/code&gt;, nematode population
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;sup&gt;*&lt;/sup&gt; For an exploration into the reasons why the data were transformed using the natural log &lt;code&gt;log()&lt;/code&gt;, see the&lt;a href=&#34;#exploring-why-the-data-were-log-transformed&#34;&gt;Exploring Why the Data Were Log Transformed&lt;/a&gt; in the &lt;a href=&#34;#bonus-material&#34;&gt;Bonus Material&lt;/a&gt; section
+&lt;sup&gt;*&lt;/sup&gt; For an exploration into the reasons why the data were transformed using the natural log &lt;code&gt;log()&lt;/code&gt;, see the &lt;a href=&#34;#exploring-why-the-data-were-log-transformed&#34;&gt;Exploring Why the Data Were Log Transformed&lt;/a&gt; in the &lt;a href=&#34;#bonus-material&#34;&gt;Bonus Material&lt;/a&gt; section
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -356,16 +354,8 @@ Log&lt;sup&gt;*&lt;/sup&gt;, &lt;code&gt;log()&lt;/code&gt;, nematode population
 &lt;/div&gt;
 &lt;div id=&#34;wide-to-long-data&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Wide to Long Data&lt;/h3&gt;
-&lt;p&gt;You can see that each of the varieties have their own column in the original data format, this is commonly called wide data. Wide data are commonly found in spreadsheets but do not lend themselves easily to data analysis, modelling and visualisation. To make it easier to do these things it is common to convert the
-data from wide to long format, commonly referred to as tidying, when using R.
-The advantage of a tidy dataset is that it is easy to manipulate, model and
-visualize, and always has a specific structure where each variable is a column,
-each observation is a row, and each type of observational unit is a table
-&lt;span class=&#34;citation&#34;&gt;(Wickham 2014)&lt;/span&gt;.&lt;/p&gt;
-&lt;p&gt;In order to use &lt;strong&gt;&lt;code&gt;ggplot2&lt;/code&gt;&lt;/strong&gt; for visualising the data, they need to be
-converted from wide to long. Using &lt;code&gt;gather()&lt;/code&gt; from the &lt;strong&gt;&lt;code&gt;tidyr&lt;/code&gt;&lt;/strong&gt; package to
-convert from wide to long format where the varieties are all listed in a single
-column, &lt;code&gt;Variety&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;You can see that each of the varieties have their own column in the original data format, this is commonly called wide data. Wide data are commonly found in spreadsheets but do not lend themselves easily to data analysis, modelling and visualisation. To make it easier to do these things it is common to convert the data from wide to long format, commonly referred to as tidying, when using R. The advantage of a tidy dataset is that it is easy to manipulate, model and visualize, and always has a specific structure where each variable is a column, each observation is a row, and each type of observational unit is a table &lt;span class=&#34;citation&#34;&gt;(Wickham 2014)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;In order to use &lt;strong&gt;&lt;code&gt;ggplot2&lt;/code&gt;&lt;/strong&gt; for visualising the data, they need to be converted from wide to long. Using &lt;code&gt;gather()&lt;/code&gt; from the &lt;strong&gt;&lt;code&gt;tidyr&lt;/code&gt;&lt;/strong&gt; package to convert from wide to long format where the varieties are all listed in a single column, &lt;code&gt;Variety&lt;/code&gt;.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;nema_long &amp;lt;- nema %&amp;gt;% gather(Variety, Log_pop, Unplanted:Suneca)
 
 nema_long&lt;/code&gt;&lt;/pre&gt;
@@ -376,16 +366,12 @@ nema_long&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;nrow(nema_long)&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## [1] 120&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;As we see, the original &lt;code&gt;nema&lt;/code&gt; data had only 24 rows and the long
-format of the data have 120 rows now.&lt;/p&gt;
+&lt;p&gt;As we see, the original &lt;code&gt;nema&lt;/code&gt; data had only 24 rows and the long format of the data have 120 rows now.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;data-visualisation&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Data Visualisation&lt;/h1&gt;
-&lt;p&gt;Now that the data are in the format that &lt;strong&gt;&lt;code&gt;ggplot2&lt;/code&gt;&lt;/strong&gt; uses, take a look at
-the data first to see what it looks like. Here we fit a smoothed line for each
-variety’s nematode population to the raw data. The individual temperature
-treatments are shown here by shape, the variety by colour.&lt;/p&gt;
+&lt;p&gt;Now that the data are in the format that &lt;strong&gt;&lt;code&gt;ggplot2&lt;/code&gt;&lt;/strong&gt; uses, take a look at the data first to see what it looks like. Here we fit a smoothed line for each variety’s nematode population to the raw data. The individual temperature treatments are shown here by shape, the variety by colour.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(
   nema_long,
   aes(
@@ -413,21 +399,16 @@ treatments are shown here by shape, the variety by colour.&lt;/p&gt;
   theme_minimal() +
   scale_colour_viridis(&amp;quot;Temperature&amp;quot;) +
   facet_wrap(~ Variety, ncol = 2)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/rmarkdown-libs/figure-html4/raw_data_scatterplots-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/notes/sparks/1/index_files/figure-html/raw_data_scatterplots-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;modelling&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Modelling&lt;/h1&gt;
 &lt;div id=&#34;unplanted-model&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Unplanted Model&lt;/h2&gt;
-&lt;p&gt;The paper uses a linear model for the unplanted control. Here we will write a
-function to use in modelling the unplanted population data. I have wrapped the
-model in a function which makes it pipe-able, &lt;code&gt;%&amp;gt;%&lt;/code&gt; and has other advantages
-when it comes to fitting the same model to several sets of data.&lt;/p&gt;
-&lt;p&gt;In the linear equation for the Unplanted control treatment, the rate of
-population increase can be expressed as:&lt;/p&gt;
+&lt;p&gt;The paper uses a linear model for the unplanted control. Here we will write a function to use in modelling the unplanted population data. I have wrapped the model in a function which makes it pipe-able, &lt;code&gt;%&amp;gt;%&lt;/code&gt; and has other advantages when it comes to fitting the same model to several sets of data.&lt;/p&gt;
+&lt;p&gt;In the linear equation for the Unplanted control treatment, the rate of population increase can be expressed as:&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[y = y_0 + rt\]&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Where &lt;span class=&#34;math inline&#34;&gt;\(y_0\)&lt;/span&gt; is the initial population, &lt;span class=&#34;math inline&#34;&gt;\(r\)&lt;/span&gt; is the rate of change and &lt;span class=&#34;math inline&#34;&gt;\(t\)&lt;/span&gt;
-equal time.&lt;/p&gt;
+&lt;p&gt;Where &lt;span class=&#34;math inline&#34;&gt;\(y_0\)&lt;/span&gt; is the initial population, &lt;span class=&#34;math inline&#34;&gt;\(r\)&lt;/span&gt; is the rate of change and &lt;span class=&#34;math inline&#34;&gt;\(t\)&lt;/span&gt; equal time.&lt;/p&gt;
 &lt;div id=&#34;fitting-a-linear-model&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Fitting a Linear Model&lt;/h3&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;linear_model &amp;lt;- function(df) {
@@ -436,9 +417,7 @@ equal time.&lt;/p&gt;
     data = df
   )
 }&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Now check the model fit, using &lt;code&gt;filter()&lt;/code&gt; from &lt;strong&gt;&lt;code&gt;dplyr&lt;/code&gt;&lt;/strong&gt; to select only
-Unplanted data from the data set for the model and fit the linear model to the
-data.&lt;/p&gt;
+&lt;p&gt;Now check the model fit, using &lt;code&gt;filter()&lt;/code&gt; from &lt;strong&gt;&lt;code&gt;dplyr&lt;/code&gt;&lt;/strong&gt; to select only Unplanted data from the data set for the model and fit the linear model to the data.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;unplanted_model &amp;lt;- nema_long %&amp;gt;%
   filter(Variety == &amp;quot;Unplanted&amp;quot;) %&amp;gt;%
   linear_model()&lt;/code&gt;&lt;/pre&gt;
@@ -446,10 +425,9 @@ data.&lt;/p&gt;
 &lt;p&gt;Using the &lt;code&gt;plot()&lt;/code&gt; function with any &lt;code&gt;lm()&lt;/code&gt; object will create four diagnostic plots for your inspection.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mfrow = c(2, 2))
 plot(unplanted_model)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/rmarkdown-libs/figure-html4/plot_model-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/notes/sparks/1/index_files/figure-html/plot_model-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;These plots do not appear to indicate anything amiss as one would hope for from the models that have already been published. If you are unfamiliar with how to interpret these diagnostic plots see &lt;a href=&#34;#interpreting-linear-models-in-r&#34;&gt;Interpreting Linear Models in R&lt;/a&gt; in the &lt;a href=&#34;#further-reading&#34;&gt;Further Reading&lt;/a&gt; section.&lt;/p&gt;
-&lt;p&gt;Using the &lt;code&gt;summary()&lt;/code&gt; function displays information about the model fit. If you are unfamiliar with how to read and interpret the output of &lt;code&gt;summary()&lt;/code&gt; for a linear model, please refer to &lt;a href=&#34;#interpreting-linear-models-in-r&#34;&gt;Interpreting Linear Models in R&lt;/a&gt; in the
-&lt;a href=&#34;#further-reading&#34;&gt;Further Reading&lt;/a&gt; section for references that go into more detail on this matter.&lt;/p&gt;
+&lt;p&gt;Using the &lt;code&gt;summary()&lt;/code&gt; function displays information about the model fit. If you are unfamiliar with how to read and interpret the output of &lt;code&gt;summary()&lt;/code&gt; for a linear model, please refer to &lt;a href=&#34;#interpreting-linear-models-in-r&#34;&gt;Interpreting Linear Models in R&lt;/a&gt; in the &lt;a href=&#34;#further-reading&#34;&gt;Further Reading&lt;/a&gt; section for references that go into more detail on this matter.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(unplanted_model)&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## 
 ## Call:
@@ -469,9 +447,7 @@ plot(unplanted_model)&lt;/code&gt;&lt;/pre&gt;
 ## Residual standard error: 0.3847 on 22 degrees of freedom
 ## Multiple R-squared:  0.6964, Adjusted R-squared:  0.6826 
 ## F-statistic: 50.45 on 1 and 22 DF,  p-value: 4.006e-07&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;From the original paper, the &lt;span class=&#34;math inline&#34;&gt;\(R^2\)&lt;/span&gt; value of the unplanted linear model was 0.7, we can see here that agrees:
-0.7. In the original paper, &lt;span class=&#34;math inline&#34;&gt;\(P\)&lt;/span&gt; &amp;lt; 0.001, R reports &lt;span class=&#34;math inline&#34;&gt;\(p-value:\)&lt;/span&gt;
-4.006382710^{-7}, which also agrees.&lt;/p&gt;
+&lt;p&gt;From the original paper, the &lt;span class=&#34;math inline&#34;&gt;\(R^2\)&lt;/span&gt; value of the unplanted linear model was 0.7, we can see here that agrees: 0.7. In the original paper, &lt;span class=&#34;math inline&#34;&gt;\(P\)&lt;/span&gt; &amp;lt; 0.001, R reports &lt;span class=&#34;math inline&#34;&gt;\(p-value:\)&lt;/span&gt; 4.006382710^{-7}, which also agrees.&lt;/p&gt;
 &lt;div id=&#34;visualising-the-model-fit-to-the-data&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Visualising the Model Fit to the Data&lt;/h4&gt;
 &lt;p&gt;Using &lt;strong&gt;&lt;code&gt;ggplot2&lt;/code&gt;&lt;/strong&gt;’s &lt;code&gt;geom_smooth()&lt;/code&gt; we can fit the same model above and graph the resulting line.&lt;/p&gt;
@@ -504,14 +480,13 @@ plot(unplanted_model)&lt;/code&gt;&lt;/pre&gt;
   theme_minimal() +
   scale_colour_viridis(&amp;quot;Temperature&amp;quot;) +
   ggtitle(&amp;quot;Unplanted Linear Model&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/rmarkdown-libs/figure-html4/visualise_linear-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/notes/sparks/1/index_files/figure-html/visualise_linear-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;quadratic-models&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Quadratic Models&lt;/h2&gt;
-&lt;p&gt;In the original paper, the quadratic model best described Gatcher and GS50a
-data, which are fit here.&lt;/p&gt;
+&lt;p&gt;In the original paper, the quadratic model best described Gatcher and GS50a data, which are fit here.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;quadratic_model &amp;lt;- function(df) {
   lm(
     Log_pop ~ Degree_days + I(Degree_days ^ 2),
@@ -527,7 +502,7 @@ data, which are fit here.&lt;/p&gt;
 
 par(mfrow = c(2, 2))
 plot(s_model)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/rmarkdown-libs/figure-html4/susceptible_model-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/notes/sparks/1/index_files/figure-html/susceptible_model-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(s_model)&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## 
 ## Call:
@@ -548,15 +523,10 @@ plot(s_model)&lt;/code&gt;&lt;/pre&gt;
 ## Residual standard error: 0.8631 on 21 degrees of freedom
 ## Multiple R-squared:  0.7998, Adjusted R-squared:  0.7808 
 ## F-statistic: 41.96 on 2 and 21 DF,  p-value: 4.621e-08&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;From the original paper, the &lt;span class=&#34;math inline&#34;&gt;\(R^2\)&lt;/span&gt; value of Gatcher’s quadratic model was 0.80,
-we can see here that agrees: 0.8. In the
-original paper, &lt;span class=&#34;math inline&#34;&gt;\(P\)&lt;/span&gt; &amp;lt; 0.001, R reports &lt;span class=&#34;math inline&#34;&gt;\(p-value:\)&lt;/span&gt;
-1.240363510^{-4}, which also agrees.&lt;/p&gt;
+&lt;p&gt;From the original paper, the &lt;span class=&#34;math inline&#34;&gt;\(R^2\)&lt;/span&gt; value of Gatcher’s quadratic model was 0.80, we can see here that agrees: 0.8. In the original paper, &lt;span class=&#34;math inline&#34;&gt;\(P\)&lt;/span&gt; &amp;lt; 0.001, R reports &lt;span class=&#34;math inline&#34;&gt;\(p-value:\)&lt;/span&gt; 1.240363510^{-4}, which also agrees.&lt;/p&gt;
 &lt;div id=&#34;visualise-susceptible-variety-model&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Visualise Susceptible Variety Model&lt;/h4&gt;
-&lt;p&gt;The model visualisation is the same for the quadratic models as the linear
-model, however you will note that the line has a downward curve at higher
-temperatures.&lt;/p&gt;
+&lt;p&gt;The model visualisation is the same for the quadratic models as the linear model, however you will note that the line has a downward curve at higher temperatures.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;nema_long %&amp;gt;%
   group_by(Variety) %&amp;gt;%
   filter(Variety == &amp;quot;Gatcher&amp;quot;) %&amp;gt;%
@@ -586,21 +556,19 @@ temperatures.&lt;/p&gt;
   theme_minimal() +
   scale_colour_viridis(&amp;quot;Temperature&amp;quot;) +
   ggtitle(&amp;quot;Gatcher Quadratic Model&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/rmarkdown-libs/figure-html4/visualise_s_model-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/notes/sparks/1/index_files/figure-html/visualise_s_model-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;moderately-resistant-cultiver&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Moderately Resistant Cultiver&lt;/h3&gt;
-&lt;p&gt;GS50a, moderately resistant to &lt;em&gt;P. thornei&lt;/em&gt;, also fits a quadratic model but the
-coefficients are slightly different due to different responses to the variety
-and temperature.&lt;/p&gt;
+&lt;p&gt;GS50a, moderately resistant to &lt;em&gt;P. thornei&lt;/em&gt;, also fits a quadratic model but the coefficients are slightly different due to different responses to the variety and temperature.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;mr_model &amp;lt;- nema_long %&amp;gt;%
   filter(Variety == &amp;quot;GS50a&amp;quot;) %&amp;gt;%
   quadratic_model()
 
 par(mfrow = c(2, 2))
 plot(mr_model)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/rmarkdown-libs/figure-html4/moderately_resistant_model-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/notes/sparks/1/index_files/figure-html/moderately_resistant_model-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(mr_model)&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## 
 ## Call:
@@ -621,10 +589,7 @@ plot(mr_model)&lt;/code&gt;&lt;/pre&gt;
 ## Residual standard error: 0.647 on 21 degrees of freedom
 ## Multiple R-squared:  0.8233, Adjusted R-squared:  0.8065 
 ## F-statistic: 48.92 on 2 and 21 DF,  p-value: 1.248e-08&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;From the original paper, the &lt;span class=&#34;math inline&#34;&gt;\(R^2\)&lt;/span&gt; value of GS50a’s quadratic model was 0.82,
-we can see here that agrees: 0.82. In the
-original paper, &lt;span class=&#34;math inline&#34;&gt;\(P\)&lt;/span&gt; &amp;lt; 0.001, R reports &lt;span class=&#34;math inline&#34;&gt;\(p-value:\)&lt;/span&gt;
-2.596147310^{-4}, which also agrees.&lt;/p&gt;
+&lt;p&gt;From the original paper, the &lt;span class=&#34;math inline&#34;&gt;\(R^2\)&lt;/span&gt; value of GS50a’s quadratic model was 0.82, we can see here that agrees: 0.82. In the original paper, &lt;span class=&#34;math inline&#34;&gt;\(P\)&lt;/span&gt; &amp;lt; 0.001, R reports &lt;span class=&#34;math inline&#34;&gt;\(p-value:\)&lt;/span&gt; 2.596147310^{-4}, which also agrees.&lt;/p&gt;
 &lt;div id=&#34;visualising-the-model-fit-to-the-data-1&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Visualising the Model Fit to the Data&lt;/h4&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;nema_long %&amp;gt;%
@@ -656,7 +621,7 @@ original paper, &lt;span class=&#34;math inline&#34;&gt;\(P\)&lt;/span&gt; &amp;
   theme_minimal() +
   scale_colour_viridis(&amp;quot;Temperature&amp;quot;) +
   ggtitle(&amp;quot;GS50a Quadratic Model&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/rmarkdown-libs/figure-html4/visualise_mr_model-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/notes/sparks/1/index_files/figure-html/visualise_mr_model-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -664,27 +629,20 @@ original paper, &lt;span class=&#34;math inline&#34;&gt;\(P\)&lt;/span&gt; &amp;
 &lt;div id=&#34;discussion-and-conclusions&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Discussion and Conclusions&lt;/h1&gt;
 &lt;p&gt;As in the original paper, the model equations can be derived from these models as well. The derived regression equations are:&lt;/p&gt;
-&lt;p&gt;Gatcher (Susceptible):
-&lt;span class=&#34;math display&#34;&gt;\[ln(P. thornei + 1) = -0.000003(0.0000009)T^2 + 0.009(0.0019)T + 5.4671(0.904)\]&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;GS50a (Moderately Resistant):
-&lt;span class=&#34;math display&#34;&gt;\[ln(P. thornei + 1) = -0.000002(0.0000007)T^2 + 0.0063(0.0014)T + 5.1559(0.678)\]&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Unplanted Control:
-&lt;span class=&#34;math display&#34;&gt;\[ln(P. thornei + 1) = 0.0013(0.00018)T + 5.4151(0.193)\]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Gatcher (Susceptible): &lt;span class=&#34;math display&#34;&gt;\[ln(P. thornei + 1) = -0.000003(0.0000009)T^2 + 0.009(0.0019)T + 5.4671(0.904)\]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;GS50a (Moderately Resistant): &lt;span class=&#34;math display&#34;&gt;\[ln(P. thornei + 1) = -0.000002(0.0000007)T^2 + 0.0063(0.0014)T + 5.1559(0.678)\]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Unplanted Control: &lt;span class=&#34;math display&#34;&gt;\[ln(P. thornei + 1) = 0.0013(0.00018)T + 5.4151(0.193)\]&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Refer back to the &lt;code&gt;summary()&lt;/code&gt; outputs for each of the models for the coefficient values and &lt;span class=&#34;math inline&#34;&gt;\(R^2\)&lt;/span&gt; values, which match those reported in the original paper where the models were fit with Genstat.&lt;/p&gt;
-&lt;p&gt;Gatcher and GS50a have similar phenologies, but differ in resistance to root lesion nematodes, making the model comparisons a reasonable objective. The original paper goes on to test the effect of sowing date based on degree days. &lt;span class=&#34;citation&#34;&gt;(Thompson 2015)&lt;/span&gt; reported a 61% increase in yield on average from sowing the susceptible, intolerant cultivar Gatcher at the end of May than sowing it in the third week of June. By June the soil temperatures and nematode populations were both greater, leading to lower wheat yield. The effects were less pronounced in the moderately resistant cultivar, GS50a, but were similar with a reduction in nematode population densities occurring due to earlier
-planting.&lt;/p&gt;
-&lt;p&gt;The models illustrated here for Gatcher and GS50a were able to accurately reflect the changes in nematode population as a result of degree days, which affected the nematodes’ ability to damage the crop and reduce yield
-&lt;span class=&#34;citation&#34;&gt;(Thompson 2015)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Gatcher and GS50a have similar phenologies, but differ in resistance to root lesion nematodes, making the model comparisons a reasonable objective. The original paper goes on to test the effect of sowing date based on degree days. &lt;span class=&#34;citation&#34;&gt;(Thompson 2015)&lt;/span&gt; reported a 61% increase in yield on average from sowing the susceptible, intolerant cultivar Gatcher at the end of May than sowing it in the third week of June. By June the soil temperatures and nematode populations were both greater, leading to lower wheat yield. The effects were less pronounced in the moderately resistant cultivar, GS50a, but were similar with a reduction in nematode population densities occurring due to earlier planting.&lt;/p&gt;
+&lt;p&gt;The models illustrated here for Gatcher and GS50a were able to accurately reflect the changes in nematode population as a result of degree days, which affected the nematodes’ ability to damage the crop and reduce yield &lt;span class=&#34;citation&#34;&gt;(Thompson 2015)&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;bonus-material&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Bonus Material&lt;/h1&gt;
 &lt;div id=&#34;exploring-why-the-data-were-log-transformed&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Exploring Why the Data Were Log Transformed&lt;/h2&gt;
-&lt;p&gt;In the paper the the natural log, &lt;code&gt;ln() +1&lt;/code&gt;, of the nematode population counts were used to fit the models. Here we will explore a bit further why this was
-necessary.&lt;/p&gt;
+&lt;p&gt;In the paper the the natural log, &lt;code&gt;ln() +1&lt;/code&gt;, of the nematode population counts were used to fit the models. Here we will explore a bit further why this was necessary.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;A note about using &lt;code&gt;log() + 1&lt;/code&gt; rather than just &lt;code&gt;log()&lt;/code&gt;. This is necessary with these data to avoid taking &lt;code&gt;log(0)&lt;/code&gt;. Try it in R to see what happens if you are
-not familiar.&lt;/p&gt;
+  &lt;p&gt;A note about using &lt;code&gt;log() + 1&lt;/code&gt; rather than just &lt;code&gt;log()&lt;/code&gt;. This is necessary with these data to avoid taking &lt;code&gt;log(0)&lt;/code&gt;. Try it in R to see what happens if you are not familiar.&lt;/p&gt;
 
 &lt;/div&gt;
 
@@ -721,7 +679,7 @@ not familiar.&lt;/p&gt;
   scale_colour_viridis(&amp;quot;Temperature&amp;quot;) +
   ggtitle(&amp;quot;Untransformed Data&amp;quot;) +
   theme_minimal()&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/rmarkdown-libs/figure-html4/boxplots_original-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/notes/sparks/1/index_files/figure-html/boxplots_original-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(
   nema_long,
   aes(sample = exp(Log_pop) - 1)
@@ -732,10 +690,9 @@ not familiar.&lt;/p&gt;
     ncol = 2
   ) +
   theme_minimal()&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/rmarkdown-libs/figure-html4/qq_original-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/notes/sparks/1/index_files/figure-html/qq_original-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;The boxplots show that there is a wide range of values with the 25 ˚C temperature populations close to zero with others having quite large ranges, this could indicate heteroscedasticity.&lt;/p&gt;
-&lt;p&gt;Also, looking at the qq-plots it is apparent that the original data do not meet the assumptions of normally distributed errors for a linear model. See the
-&lt;a href=&#34;#further-reading&#34;&gt;Further Reading&lt;/a&gt; section for suggested reading on interpreting qq-plots.&lt;/p&gt;
+&lt;p&gt;Also, looking at the qq-plots it is apparent that the original data do not meet the assumptions of normally distributed errors for a linear model. See the &lt;a href=&#34;#further-reading&#34;&gt;Further Reading&lt;/a&gt; section for suggested reading on interpreting qq-plots.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(
   nema_long,
   aes(
@@ -768,7 +725,7 @@ not familiar.&lt;/p&gt;
   scale_colour_viridis(&amp;quot;Temperature&amp;quot;) +
   ggtitle(&amp;quot;Log Transformed Data&amp;quot;) +
   theme_minimal()&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/rmarkdown-libs/figure-html4/boxplots_ln-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/notes/sparks/1/index_files/figure-html/boxplots_ln-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(
   nema_long,
   aes(sample = Log_pop)
@@ -779,9 +736,8 @@ not familiar.&lt;/p&gt;
     ncol = 2
   ) +
   theme_minimal()&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/rmarkdown-libs/figure-html4/qq_ln-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Here we see that the &lt;code&gt;log()&lt;/code&gt; transformed data’s boxplots show fewer outliers and tighter range of values. The qq-plots also indicate that it is possible to
-conduct a linear regression with these data.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/notes/sparks/1/index_files/figure-html/qq_ln-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Here we see that the &lt;code&gt;log()&lt;/code&gt; transformed data’s boxplots show fewer outliers and tighter range of values. The qq-plots also indicate that it is possible to conduct a linear regression with these data.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;using-aic-to-compare-model-quality&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Using AIC to Compare Model Quality&lt;/h2&gt;
@@ -793,7 +749,7 @@ conduct a linear regression with these data.&lt;/p&gt;
 
 par(mfrow = c(2, 2))
 plot(unplanted_poly_model)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/rmarkdown-libs/figure-html4/unplanted_poly-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/notes/sparks/1/index_files/figure-html/unplanted_poly-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(unplanted_poly_model)&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## 
 ## Call:
@@ -814,10 +770,7 @@ plot(unplanted_poly_model)&lt;/code&gt;&lt;/pre&gt;
 ## Residual standard error: 0.3848 on 21 degrees of freedom
 ## Multiple R-squared:  0.7101, Adjusted R-squared:  0.6825 
 ## F-statistic: 25.72 on 2 and 21 DF,  p-value: 2.255e-06&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;By this information, the &lt;span class=&#34;math inline&#34;&gt;\(R^2\)&lt;/span&gt; value is a bit better from the &lt;code&gt;unplanted_poly_model&lt;/code&gt;, 0.7101253, than
-the original &lt;code&gt;unplanted_model&lt;/code&gt;’s, 0.6963592.
-Using the same code from above it is easy to visualise the new model’s fit using
-&lt;strong&gt;&lt;code&gt;ggplot2&lt;/code&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;By this information, the &lt;span class=&#34;math inline&#34;&gt;\(R^2\)&lt;/span&gt; value is a bit better from the &lt;code&gt;unplanted_poly_model&lt;/code&gt;, 0.7101253, than the original &lt;code&gt;unplanted_model&lt;/code&gt;’s, 0.6963592. Using the same code from above it is easy to visualise the new model’s fit using &lt;strong&gt;&lt;code&gt;ggplot2&lt;/code&gt;&lt;/strong&gt;.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;nema_long %&amp;gt;%
   group_by(Variety) %&amp;gt;%
   filter(Variety == &amp;quot;Unplanted&amp;quot;) %&amp;gt;%
@@ -847,16 +800,14 @@ Using the same code from above it is easy to visualise the new model’s fit usi
   theme_minimal() +
   scale_colour_viridis(&amp;quot;Temperature&amp;quot;) +
   ggtitle(&amp;quot;Unplanted Quadratic Model&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/rmarkdown-libs/figure-html4/visualise_unplanted_poly_model-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Checking the model fit visually, we can see that it fits the data nicely. To get a better feel for how these models compare, AIC can be used to determine the relative quality of a model for a &lt;em&gt;given set of data&lt;/em&gt;. That is, you cannot
-compare models for other data using AIC.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/notes/sparks/1/index_files/figure-html/visualise_unplanted_poly_model-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Checking the model fit visually, we can see that it fits the data nicely. To get a better feel for how these models compare, AIC can be used to determine the relative quality of a model for a &lt;em&gt;given set of data&lt;/em&gt;. That is, you cannot compare models for other data using AIC.&lt;/p&gt;
 &lt;p&gt;Checking the AIC is quite simple in R, just &lt;code&gt;AIC()&lt;/code&gt;. Here we check the AIC of the original linear &lt;code&gt;unplanted_model&lt;/code&gt; and the new &lt;code&gt;unplanted_poly_model&lt;/code&gt;.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;AIC(unplanted_model)&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## [1] 26.17149&lt;/code&gt;&lt;/pre&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;AIC(unplanted_poly_model)&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## [1] 27.05797&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Ideally when fitting models, you look for the least complex model that provides the best explanation of the variation in the data. In this case the original linear model has a lower AIC, 26.1714857, than that of the polynomial model, 27.0579669, but they are extremely close and the &lt;span class=&#34;math inline&#34;&gt;\(R^2\)&lt;/span&gt; value of the polynomial model, 0.7101253, is a bit better than the linear model’s &lt;span class=&#34;math inline&#34;&gt;\(R^2\)&lt;/span&gt;, 0.6963592, as well.
-Therefore, without more data to distinguish the models it appears that either model suffices for the data provided.&lt;/p&gt;
+&lt;p&gt;Ideally when fitting models, you look for the least complex model that provides the best explanation of the variation in the data. In this case the original linear model has a lower AIC, 26.1714857, than that of the polynomial model, 27.0579669, but they are extremely close and the &lt;span class=&#34;math inline&#34;&gt;\(R^2\)&lt;/span&gt; value of the polynomial model, 0.7101253, is a bit better than the linear model’s &lt;span class=&#34;math inline&#34;&gt;\(R^2\)&lt;/span&gt;, 0.6963592, as well. Therefore, without more data to distinguish the models it appears that either model suffices for the data provided.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;further-reading&#34; class=&#34;section level1&#34;&gt;
@@ -871,124 +822,101 @@ Therefore, without more data to distinguish the models it appears that either mo
 &lt;/div&gt;
 &lt;div id=&#34;interpreting-linear-models-in-r&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Interpreting Linear Models in R&lt;/h2&gt;
-&lt;p&gt;The University of Georgia has a nice, easy to understand set of materials that demonstrate how to interpret diagnostic plot outputs from &lt;code&gt;plot(lm.object)&lt;/code&gt;,
-&lt;a href=&#34;http://strata.uga.edu/8370/rtips/regressionPlots.html&#34;&gt;Regression diagnostic plots&lt;/a&gt;
-on their Data Analysis in the Geosciences page. For even more, this
-Cross Validated question has an excellent discussion on
-&lt;a href=&#34;https://stats.stackexchange.com/questions/58141/interpreting-plot-lm&#34;&gt;Interpreting plot.lm()&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The University of Georgia has a nice, easy to understand set of materials that demonstrate how to interpret diagnostic plot outputs from &lt;code&gt;plot(lm.object)&lt;/code&gt;, &lt;a href=&#34;http://strata.uga.edu/8370/rtips/regressionPlots.html&#34;&gt;Regression diagnostic plots&lt;/a&gt; on their Data Analysis in the Geosciences page. For even more, this Cross Validated question has an excellent discussion on &lt;a href=&#34;https://stats.stackexchange.com/questions/58141/interpreting-plot-lm&#34;&gt;Interpreting plot.lm()&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The University of Montana provides an on-line text, “&lt;em&gt;Statistics With R&lt;/em&gt;”, that includes a section on &lt;a href=&#34;https://arc.lib.montana.edu/book/statistics-with-r-textbook/item/57&#34;&gt;ANOVA model diagnostics including QQ-plots&lt;/a&gt;. Since ANOVA uses &lt;code&gt;lm()&lt;/code&gt; in R, the tools and descriptions here are applicable to the qq-plots we have generated here in this illustration.&lt;/p&gt;
-&lt;p&gt;For a detailed look at how to interpret the output from &lt;code&gt;summary()&lt;/code&gt; for linear models, see The YHAT Blog post,
-&lt;a href=&#34;http://blog.yhat.com/posts/r-lm-summary.html&#34;&gt;Fitting &amp;amp; Interpreting Linear Models in R&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Faraway &lt;span class=&#34;citation&#34;&gt;(2002)&lt;/span&gt;,
-“&lt;a href=&#34;https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf&#34;&gt;&lt;em&gt;Practical Regression and Anova using R&lt;/em&gt;&lt;/a&gt;”
-is an excellent free resource that goes into detail about fitting linear models
-using R and how to interpret the diagnostics. Prof. Faraway has more recent
-books on the subject as well that you might wish to borrow from your library or
-purchase, see
-&lt;a href=&#34;http://www.maths.bath.ac.uk/~jjf23/LMR/&#34; class=&#34;uri&#34;&gt;http://www.maths.bath.ac.uk/~jjf23/LMR/&lt;/a&gt;
-for more details.&lt;/p&gt;
+&lt;p&gt;For a detailed look at how to interpret the output from &lt;code&gt;summary()&lt;/code&gt; for linear models, see The YHAT Blog post, &lt;a href=&#34;http://blog.yhat.com/posts/r-lm-summary.html&#34;&gt;Fitting &amp;amp; Interpreting Linear Models in R&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Faraway &lt;span class=&#34;citation&#34;&gt;(2002)&lt;/span&gt;, “&lt;a href=&#34;https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf&#34;&gt;&lt;em&gt;Practical Regression and Anova using R&lt;/em&gt;&lt;/a&gt;” is an excellent free resource that goes into detail about fitting linear models using R and how to interpret the diagnostics. Prof. Faraway has more recent books on the subject as well that you might wish to borrow from your library or purchase, see &lt;a href=&#34;http://www.maths.bath.ac.uk/~jjf23/LMR/&#34; class=&#34;uri&#34;&gt;http://www.maths.bath.ac.uk/~jjf23/LMR/&lt;/a&gt; for more details.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;selecting-the-right-colour-scheme&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Selecting the Right Colour Scheme&lt;/h2&gt;
-&lt;p&gt;Selecting good colour schemes is essential for communicating your message.
-The &lt;strong&gt;&lt;code&gt;viridis&lt;/code&gt;&lt;/strong&gt; package makes this much easier to do. Bob Rudis has a nice
-blog post when the package was first introduced that demonstrates why it is
-useful to use a package like this for your colour palettes,
-&lt;a href=&#34;https://rud.is/b/2015/07/20/using-the-new-viridis-colormap-in-r-thanks-to-simon-garnier/&#34;&gt;Using the new ‘viridis’ colormap in R (thanks to Simon Garnier)&lt;/a&gt;. Other colour palettes for R exist as well. Notably the
-&lt;strong&gt;&lt;code&gt;RColorBrewer&lt;/code&gt;&lt;/strong&gt; package provides an easy-to-use interface for the fantastic
-Colour Brewer palettes &lt;a href=&#34;http://colorbrewer2.org/&#34; class=&#34;uri&#34;&gt;http://colorbrewer2.org/&lt;/a&gt;
-commonly used for cartography but also useful for graphs.&lt;/p&gt;
+&lt;p&gt;Selecting good colour schemes is essential for communicating your message. The &lt;strong&gt;&lt;code&gt;viridis&lt;/code&gt;&lt;/strong&gt; package makes this much easier to do. Bob Rudis has a nice blog post when the package was first introduced that demonstrates why it is useful to use a package like this for your colour palettes, &lt;a href=&#34;https://rud.is/b/2015/07/20/using-the-new-viridis-colormap-in-r-thanks-to-simon-garnier/&#34;&gt;Using the new ‘viridis’ colormap in R (thanks to Simon Garnier)&lt;/a&gt;. Other colour palettes for R exist as well. Notably the &lt;strong&gt;&lt;code&gt;RColorBrewer&lt;/code&gt;&lt;/strong&gt; package provides an easy-to-use interface for the fantastic Colour Brewer palettes &lt;a href=&#34;http://colorbrewer2.org/&#34; class=&#34;uri&#34;&gt;http://colorbrewer2.org/&lt;/a&gt; commonly used for cartography but also useful for graphs.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;reproducibility&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Reproducibility&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;## Warning in as.POSIXlt.POSIXct(Sys.time()): unknown timezone &amp;#39;zone/tz/2017c.
+## 1.0/zoneinfo/America/Sao_Paulo&amp;#39;&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## Session info -------------------------------------------------------------&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;##  setting  value                       
-##  version  R version 3.4.3 (2017-11-30)
-##  system   x86_64, darwin15.6.0        
+##  version  R version 3.3.3 (2017-03-06)
+##  system   x86_64, darwin13.4.0        
 ##  ui       X11                         
 ##  language (EN)                        
 ##  collate  C                           
-##  tz       America/Sao_Paulo           
+##  tz       &amp;lt;NA&amp;gt;                        
 ##  date     2018-02-14&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## Packages -----------------------------------------------------------------&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;##  package     * version    date       source                           
-##  assertthat    0.2.0      2017-04-11 CRAN (R 3.4.0)                   
-##  backports     1.1.1      2017-09-25 CRAN (R 3.4.2)                   
-##  base        * 3.4.3      2017-12-07 local                            
-##  bindr         0.1        2016-11-13 CRAN (R 3.4.0)                   
-##  bindrcpp    * 0.2        2017-06-17 CRAN (R 3.4.0)                   
-##  blogdown      0.5.1      2018-02-10 Github (rstudio/blogdown@558b3f5)
-##  bookdown      0.6        2018-01-25 cran (@0.6)                      
-##  broom         0.4.3      2017-11-20 CRAN (R 3.4.2)                   
-##  cellranger    1.1.0      2016-07-27 CRAN (R 3.4.0)                   
-##  cli           1.0.0      2017-11-05 CRAN (R 3.4.2)                   
-##  colorspace    1.3-2      2016-12-14 CRAN (R 3.4.0)                   
-##  compiler      3.4.3      2017-12-07 local                            
-##  crayon        1.3.4      2017-09-16 CRAN (R 3.4.1)                   
-##  datasets    * 3.4.3      2017-12-07 local                            
-##  devtools      1.13.4     2017-11-09 CRAN (R 3.4.2)                   
-##  digest        0.6.15     2018-01-28 cran (@0.6.15)                   
-##  dplyr       * 0.7.4      2017-09-28 CRAN (R 3.4.2)                   
-##  evaluate      0.10.1     2017-06-24 CRAN (R 3.4.1)                   
-##  forcats     * 0.2.0      2017-01-23 CRAN (R 3.4.0)                   
-##  foreign       0.8-69     2017-06-22 CRAN (R 3.4.3)                   
-##  ggplot2     * 2.2.1.9000 2018-02-11 Github (hadley/ggplot2@2b5b88d)  
-##  glue          1.2.0      2017-10-29 CRAN (R 3.4.2)                   
-##  graphics    * 3.4.3      2017-12-07 local                            
-##  grDevices   * 3.4.3      2017-12-07 local                            
-##  grid          3.4.3      2017-12-07 local                            
-##  gridExtra     2.3        2017-09-09 CRAN (R 3.4.1)                   
-##  gtable        0.2.0      2016-02-26 CRAN (R 3.4.0)                   
-##  haven         1.1.0      2017-07-09 CRAN (R 3.4.1)                   
-##  hms           0.4.0      2017-11-23 CRAN (R 3.4.3)                   
-##  htmltools     0.3.6      2017-04-28 CRAN (R 3.4.0)                   
-##  httr          1.3.1      2017-08-20 CRAN (R 3.4.1)                   
-##  jsonlite      1.5        2017-06-01 CRAN (R 3.4.0)                   
-##  kableExtra  * 0.7.0      2018-01-15 CRAN (R 3.4.3)                   
-##  knitr         1.19       2018-01-29 cran (@1.19)                     
-##  labeling      0.3        2014-08-23 CRAN (R 3.4.0)                   
-##  lattice       0.20-35    2017-03-25 CRAN (R 3.4.3)                   
-##  lazyeval      0.2.1      2017-10-29 CRAN (R 3.4.2)                   
-##  lubridate     1.7.1      2017-11-03 CRAN (R 3.4.2)                   
-##  magrittr      1.5        2014-11-22 CRAN (R 3.4.0)                   
-##  memoise       1.1.0      2017-04-21 CRAN (R 3.4.0)                   
-##  methods     * 3.4.3      2017-12-07 local                            
-##  mnormt        1.5-5      2016-10-15 CRAN (R 3.4.0)                   
-##  modelr        0.1.1      2017-07-24 CRAN (R 3.4.1)                   
-##  munsell       0.4.3      2016-02-13 CRAN (R 3.4.0)                   
-##  nlme          3.1-131    2017-02-06 CRAN (R 3.4.3)                   
-##  parallel      3.4.3      2017-12-07 local                            
-##  pillar        1.1.0      2018-01-14 cran (@1.1.0)                    
-##  pkgconfig     2.0.1      2017-03-21 CRAN (R 3.4.0)                   
-##  plyr          1.8.4      2016-06-08 CRAN (R 3.4.0)                   
-##  psych         1.7.8      2017-09-09 CRAN (R 3.4.2)                   
-##  purrr       * 0.2.4      2017-10-18 CRAN (R 3.4.2)                   
-##  R6            2.2.2      2017-06-17 CRAN (R 3.4.0)                   
-##  Rcpp          0.12.15    2018-01-20 cran (@0.12.15)                  
-##  readr       * 1.1.1      2017-05-16 CRAN (R 3.4.0)                   
-##  readxl        1.0.0      2017-04-18 CRAN (R 3.4.0)                   
-##  reshape2      1.4.3      2017-12-11 cran (@1.4.3)                    
-##  rlang         0.1.6.9003 2018-02-11 Github (tidyverse/rlang@616fd4d) 
-##  rmarkdown     1.8        2017-11-17 CRAN (R 3.4.2)                   
-##  rprojroot     1.2        2017-01-16 CRAN (R 3.4.0)                   
-##  rstudioapi    0.7        2017-09-07 CRAN (R 3.4.1)                   
-##  rvest         0.3.2      2016-06-17 CRAN (R 3.4.0)                   
-##  scales        0.5.0.9000 2018-01-14 Github (hadley/scales@d767915)   
-##  stats       * 3.4.3      2017-12-07 local                            
-##  stringi       1.1.6      2017-11-17 CRAN (R 3.4.2)                   
-##  stringr     * 1.2.0      2017-02-18 CRAN (R 3.4.0)                   
-##  tibble      * 1.4.2      2018-01-22 cran (@1.4.2)                    
-##  tidyr       * 0.8.0      2018-01-29 cran (@0.8.0)                    
-##  tidyselect    0.2.3      2017-11-06 CRAN (R 3.4.2)                   
-##  tidyverse   * 1.2.1      2017-11-14 CRAN (R 3.4.2)                   
-##  tools         3.4.3      2017-12-07 local                            
-##  utils       * 3.4.3      2017-12-07 local                            
-##  viridis     * 0.4.0      2017-03-27 CRAN (R 3.4.0)                   
-##  viridisLite * 0.3.0      2018-02-01 cran (@0.3.0)                    
-##  withr         2.1.1.9000 2018-01-14 Github (jimhester/withr@df18523) 
-##  xfun          0.1        2018-01-22 cran (@0.1)                      
-##  xml2          1.1.1      2017-01-24 CRAN (R 3.4.0)                   
+&lt;pre&gt;&lt;code&gt;##  package     * version    date       source                            
+##  assertthat    0.2.0      2017-04-11 CRAN (R 3.3.2)                    
+##  backports     1.1.2      2017-12-13 cran (@1.1.2)                     
+##  base        * 3.3.3      2017-03-07 local                             
+##  bindr         0.1        2016-11-13 cran (@0.1)                       
+##  bindrcpp    * 0.2        2017-06-17 cran (@0.2)                       
+##  blogdown      0.4        2017-12-22 Github (rstudio/blogdown@e4c6ed9) 
+##  bookdown      0.5        2017-08-20 CRAN (R 3.3.2)                    
+##  broom         0.4.2      2017-02-13 CRAN (R 3.3.2)                    
+##  cellranger    1.1.0      2016-07-27 CRAN (R 3.3.0)                    
+##  colorspace    1.3-2      2016-12-14 CRAN (R 3.3.2)                    
+##  datasets    * 3.3.3      2017-03-07 local                             
+##  devtools      1.13.1     2017-05-13 CRAN (R 3.3.2)                    
+##  digest        0.6.13     2017-12-14 cran (@0.6.13)                    
+##  dplyr       * 0.7.4      2017-09-28 cran (@0.7.4)                     
+##  evaluate      0.10.1     2017-06-24 cran (@0.10.1)                    
+##  forcats       0.2.0      2017-01-23 CRAN (R 3.3.2)                    
+##  foreign       0.8-68     2017-04-24 CRAN (R 3.3.2)                    
+##  ggplot2     * 2.2.1.9000 2017-10-02 Github (tidyverse/ggplot2@c592e32)
+##  glue          1.1.1      2017-06-21 cran (@1.1.1)                     
+##  graphics    * 3.3.3      2017-03-07 local                             
+##  grDevices   * 3.3.3      2017-03-07 local                             
+##  grid          3.3.3      2017-03-07 local                             
+##  gridExtra     2.2.1      2016-02-29 CRAN (R 3.3.0)                    
+##  gtable        0.2.0      2016-02-26 CRAN (R 3.3.0)                    
+##  haven         1.0.0      2016-09-23 CRAN (R 3.3.0)                    
+##  hms           0.3        2016-11-22 cran (@0.3)                       
+##  htmltools     0.3.6      2017-04-28 CRAN (R 3.3.2)                    
+##  httr          1.3.1      2017-08-20 cran (@1.3.1)                     
+##  jsonlite      1.5        2017-06-01 cran (@1.5)                       
+##  kableExtra  * 0.7.0      2018-01-15 CRAN (R 3.3.3)                    
+##  knitr         1.18       2017-12-27 cran (@1.18)                      
+##  labeling      0.3        2014-08-23 CRAN (R 3.3.0)                    
+##  lattice       0.20-35    2017-03-25 CRAN (R 3.3.2)                    
+##  lazyeval      0.2.1      2017-10-29 cran (@0.2.1)                     
+##  lubridate     1.7.1      2017-11-03 cran (@1.7.1)                     
+##  magrittr      1.5        2014-11-22 CRAN (R 3.3.0)                    
+##  memoise       1.1.0      2017-04-21 CRAN (R 3.3.2)                    
+##  methods     * 3.3.3      2017-03-07 local                             
+##  mnormt        1.5-5      2016-10-15 CRAN (R 3.3.0)                    
+##  modelr        0.1.0      2016-08-31 CRAN (R 3.3.0)                    
+##  munsell       0.4.3      2016-02-13 CRAN (R 3.3.0)                    
+##  nlme          3.1-131    2017-02-06 CRAN (R 3.3.3)                    
+##  parallel      3.3.3      2017-03-07 local                             
+##  pkgconfig     2.0.1      2017-03-21 cran (@2.0.1)                     
+##  plyr          1.8.4      2016-06-08 CRAN (R 3.3.0)                    
+##  psych         1.7.5      2017-05-03 CRAN (R 3.3.3)                    
+##  purrr       * 0.2.4      2017-10-18 cran (@0.2.4)                     
+##  R6            2.2.2      2017-06-17 cran (@2.2.2)                     
+##  Rcpp          0.12.14    2017-11-23 CRAN (R 3.3.2)                    
+##  readr       * 1.1.1      2017-05-16 CRAN (R 3.3.2)                    
+##  readxl        1.0.0      2017-04-18 CRAN (R 3.3.2)                    
+##  reshape2      1.4.3      2017-12-11 cran (@1.4.3)                     
+##  rlang         0.1.6      2017-12-21 cran (@0.1.6)                     
+##  rmarkdown     1.8        2017-11-17 cran (@1.8)                       
+##  rprojroot     1.3-2      2018-01-03 cran (@1.3-2)                     
+##  rvest         0.3.2      2016-06-17 CRAN (R 3.3.0)                    
+##  scales        0.5.0      2017-08-24 cran (@0.5.0)                     
+##  stats       * 3.3.3      2017-03-07 local                             
+##  stringi       1.1.6      2017-11-17 cran (@1.1.6)                     
+##  stringr       1.2.0      2017-02-18 cran (@1.2.0)                     
+##  tibble      * 1.3.4      2017-08-22 cran (@1.3.4)                     
+##  tidyr       * 0.7.1      2017-09-01 cran (@0.7.1)                     
+##  tidyselect    0.2.0      2017-08-30 cran (@0.2.0)                     
+##  tidyverse   * 1.1.1      2017-01-27 CRAN (R 3.3.2)                    
+##  tools         3.3.3      2017-03-07 local                             
+##  utils       * 3.3.3      2017-03-07 local                             
+##  viridis     * 0.4.0      2017-03-27 CRAN (R 3.3.2)                    
+##  viridisLite * 0.2.0      2017-03-24 CRAN (R 3.3.2)                    
+##  withr         2.1.1.9000 2017-12-26 Github (jimhester/withr@df18523)  
+##  xml2          1.1.1      2017-01-24 cran (@1.1.1)                     
 ##  yaml          2.1.16     2017-12-12 cran (@2.1.16)&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div id=&#34;references&#34; class=&#34;section level1 unnumbered&#34;&gt;

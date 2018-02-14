@@ -82,11 +82,11 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2.25rem;
+  font-size: 2.15rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.75rem;
 }
 h3 {
   font-weight: 700;
@@ -103,6 +103,7 @@ a,
 h3.article-title a:hover {
   color: #0095eb;
   text-decoration: none;
+  font-weight: normal;
   transition: color 0.6s ease;
 }
 
@@ -502,7 +503,7 @@ article {
 }
 
 .article-container {
-  max-width: 860px;
+  max-width: 960px;
   padding: 1rem 20px 0 20px;
   margin: 0 auto 0 auto;
 }
@@ -604,8 +605,8 @@ article {
 img.doi {
 
   margin-left: 0;
-  margin-top: 20px;
-  margin-bottom: 40px;
+  margin-top: 5px;
+  margin-bottom: 5px;
   padding-left: 0;
   padding-right: 0;
 }
@@ -671,7 +672,7 @@ img.doi {
 }
 
 .pub .pub-row-heading {
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .pub-list-item {
@@ -685,7 +686,7 @@ img.doi {
 .pub-list-item .pub-authors {
   line-height: normal;
   font-style: normal;
-  font-size: 1rem;
+  font-size: 0.8rem;
   color: #3170A5;
 }
 

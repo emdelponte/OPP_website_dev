@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518631159426.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EF1C6812",
+    "lastKnownWriteTime" : 1518631290,
+    "last_content_update" : 1518631290052,
+    "path" : "~/Documents/github/OPP_website_dev/themes/hugo-academic/layouts/partials/publication_li_simple.html",
+    "project_path" : "themes/hugo-academic/layouts/partials/publication_li_simple.html",
+    "properties" : {
+        "cursorPosition" : "6,15",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}
